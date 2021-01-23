@@ -73,3 +73,13 @@ h1{
         width: 90%;
     }
 }
+
+@media screen and (max-width:360px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    .controls {
+        padding: 10px 15px;
+    }
+}
